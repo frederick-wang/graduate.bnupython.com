@@ -20,6 +20,15 @@
           "link": "/2023_autumn/preparation/environment_setup"
         }
       ]
+    },
+    {
+      "text": "作业",
+      "children": [
+        {
+          "text": "EX1: 新手村（上）",
+          "link": "/2023_autumn/exercise/ex1_beginners_village_part1"
+        }
+      ]
     }
   ]
 }
