@@ -11,21 +11,17 @@ next: ../preparation/join_luogu
 
 ## PPT 课件 & 示例代码
 
-<!-- 见师大云盘「2023_春_面向对象的程序设计（Python）」目录：[https://pan.bnu.edu.cn/l/l18kdS](https://pan.bnu.edu.cn/l/l18kdS) -->
+见师大云盘「个人空间/收到的共享/2023_秋_Python程序设计」目录
 
-师大云盘链接待更新。
-
-<!-- 已共享给选课同学。 -->
+已共享给选课同学。
 
 ## 习题课 PDF & 习题课录像
 
-<!-- 见师大云盘「2023_春_面向对象的程序设计（Python）」目录：[https://pan.bnu.edu.cn/l/l18kdS](https://pan.bnu.edu.cn/l/l18kdS) -->
+见师大云盘「个人空间/收到的共享/2023_秋_Python程序设计」目录
 
-<!-- 已共享给选课同学。 -->
+已共享给选课同学。
 
-师大云盘链接待更新。
-
-<!-- ## 安装Jupyter Notebook并了解其基本用法
+## 安装Jupyter Notebook并了解其基本用法
 
 请浏览以下链接（重点看列出的内容即可）：
 
@@ -33,4 +29,4 @@ next: ../preparation/join_luogu
   - Getting Up and Running With Jupyter Notebook
   - Creating a Notebook
 - 【视频】[Jupyter notebook快速入门-同济子豪兄](https://www.bilibili.com/video/BV1Q4411H7fJ/?spm_id_from=333.337.search-card.all.click&vd_source=01158afa7bbaa2f03038d0e119c0ea78)
-  - P1-快速入门Jupyter Notebook -->
+  - P1-快速入门Jupyter Notebook
