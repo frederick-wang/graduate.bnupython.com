@@ -11,13 +11,13 @@ next: ../preparation/join_luogu
 
 ## PPT 课件 & 示例代码
 
-见师大云盘「个人空间/收到的共享/2023_秋_Python程序设计」目录
+见师大云盘「个人空间/收到的共享/2023_秋_Python程序设计」目录：[https://pan.bnu.edu.cn/l/H18aGo](https://pan.bnu.edu.cn/l/H18aGo)
 
 已共享给选课同学。
 
 ## 习题课 PDF & 习题课录像
 
-见师大云盘「个人空间/收到的共享/2023_秋_Python程序设计」目录
+见师大云盘「个人空间/收到的共享/2023_秋_Python程序设计」目录：[https://pan.bnu.edu.cn/l/H18aGo](https://pan.bnu.edu.cn/l/H18aGo)
 
 已共享给选课同学。
 
