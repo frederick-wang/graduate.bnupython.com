@@ -8,6 +8,7 @@ next: ./introduction
 
 | 时间 | 内容 |
 | --- | --- |
+| 2023-09-04 | [教学资源](/2023_autumn/information/resources) 更新「PPT 课件 & 示例代码」。 |
 | 2023-09-03 | 作业 [EX1: 新手村（上）](/2023_autumn/exercise/ex1_beginners_village_part1) 已发布。<br> <el-tag type="success" style="margin-top: 8px; font-family: monospace">⏳ Soft Deadline: 第三周上课前 <span style="vertical-align: text-top">(</span>2023-09-11<span style="vertical-align: text-top">)</span></el-tag> <br> <el-tag type="danger" style="margin-top: 8px; font-family: monospace">⏰ Hard Deadline: 第四周上课前 <span style="vertical-align: text-top">(</span>2023-09-18<span style="vertical-align: text-top">)</span></el-tag> |
 
 ## 2023 年 8 月
