@@ -121,7 +121,7 @@ a, b = [int(x) for x in input().split()]
 ```python
 import math  # 导入 Python 内置的标准模块 math，该模块提供了对 C 标准定义的数学函数的访问。
 
-math.pi  # 这是 Python 内置的 π 值
+math.pi  # 这是 Python 内置的 π 值，不过在这道题目中用题面要求的近似值 3.14 即可，不需要用 math.pi
 print(math.pi)  # 输出 3.141592653589793
 
 math.ceil  # 这是 Python 内置的“向上取整”函数
