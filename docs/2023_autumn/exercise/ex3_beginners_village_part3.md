@@ -1,5 +1,6 @@
 ---
 prev: ./ex2_beginners_village_part2
+next: ./ex4_beginners_village_part4
 ---
 
 # EX3: 新手村（三）
